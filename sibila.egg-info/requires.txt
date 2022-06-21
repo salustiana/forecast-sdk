@@ -1,0 +1,14 @@
+boto3>=1.16.42
+melitk.metrics
+melitk.logging
+
+[dev]
+
+[test]
+codecov==2.0.15
+coverage==4.5.2
+pytest==4.0.0
+pytest-cov==2.6.0
+pytest-mock==1.10.4
+requests-mock==1.8.0
+moto
